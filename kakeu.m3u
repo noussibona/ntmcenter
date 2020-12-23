@@ -624,9 +624,623 @@ http://internetowa.tv/?c=hlsPlay&channel=polotv&token=7a9a34cdbb8cec4ce866cee6d0
 #EXTINF:-1 group-title="POLAND"  tvg-logo="https://internetowa.tv/img/logo/disco-polo-music.png" ,Disco Polo Music
 http://internetowa.tv/?c=hlsPlay&channel=discopolomusic&token=7a9a34cdbb8cec4ce866cee6d0663f3e1992b386fe4cc1f7dbfa29a024f685d372b3352a6f9978c8ddad9e4975fb9ce7171a9a84cc33af21cbb242d8fefa5d68
 
-#EXTINF:-1 group-title="FRANCE", France
-http://178.18.49.42:8080/playlist.m3u8
-#EXTINF:-1 group-title="UK", UK 1
-http://176.10.117.3:5000/playlist.m3u8
-#EXTINF:-1 group-title="UK", UK 2
-http://178.159.14.234:8000/playlist.m3u8
+
+#EXTINF:-1 group-title="FRANCE", 01 TF1
+
+http://178.18.49.42:8080/play/a00v
+#EXTINF:-1 group-title="FRANCE", 02 FRANCE 2 HD
+
+http://178.18.49.42:8080/play/a004
+#EXTINF:-1 group-title="FRANCE", 03 FRANCE 3 Nancy SD
+
+http://178.18.49.42:8080/play/a01c
+#EXTINF:-1 group-title="FRANCE", 03 FRANCE 3 National HD
+
+http://178.18.49.42:8080/play/a01b
+#EXTINF:-1 group-title="FRANCE", 03 FRANCE 3 Nice SD
+
+http://178.18.49.42:8080/play/a01d
+#EXTINF:-1 group-title="FRANCE", 03 FRANCE 3 Poitier SD
+
+http://178.18.49.42:8080/play/a01e
+#EXTINF:-1 group-title="FRANCE", 03 FRANCE 3 Rhone SD
+
+http://178.18.49.42:8080/play/a00w
+#EXTINF:-1 group-title="FRANCE", 03 FRANCE 3 Toulouse
+
+http://178.18.49.42:8080/play/a01f
+#EXTINF:-1 group-title="FRANCE", 03 FRANCE 3 Via Stella
+
+http://178.18.49.42:8080/play/a01g
+#EXTINF:-1 group-title="FRANCE", 04 CANAL+
+
+http://178.18.49.42:8080/play/a015
+#EXTINF:-1 group-title="FRANCE", 05 FRANCE 5
+
+http://178.18.49.42:8080/play/a00g
+#EXTINF:-1 group-title="FRANCE", 06 M6
+
+http://178.18.49.42:8080/play/a005
+#EXTINF:-1 group-title="FRANCE", 07 ARTE
+
+http://178.18.49.42:8080/play/a006
+#EXTINF:-1 group-title="FRANCE", 08 D8
+
+http://178.18.49.42:8080/play/a00j
+#EXTINF:-1 group-title="FRANCE", 09 W9
+
+http://178.18.49.42:8080/play/a00k
+#EXTINF:-1 group-title="FRANCE", 10 TMC
+
+http://178.18.49.42:8080/play/a00l
+#EXTINF:-1 group-title="FRANCE", 11 TFX
+
+http://178.18.49.42:8080/play/a00m
+#EXTINF:-1 group-title="FRANCE", 12 NRJ12
+
+http://178.18.49.42:8080/play/a00n
+#EXTINF:-1 group-title="FRANCE", 13 LCP
+
+http://178.18.49.42:8080/play/a00o
+#EXTINF:-1 group-title="FRANCE", 14 FRANCE 4
+
+http://178.18.49.42:8080/play/a00p
+#EXTINF:-1 group-title="FRANCE", 15 BFM TV
+
+http://178.18.49.42:8080/play/a00q
+#EXTINF:-1 group-title="FRANCE", 16 CNEWS
+
+http://178.18.49.42:8080/play/a00r
+#EXTINF:-1 group-title="FRANCE", 17 CSTAR
+
+http://178.18.49.42:8080/play/a00s
+#EXTINF:-1 group-title="FRANCE", 18 GULLI
+
+http://178.18.49.42:8080/play/a00t
+#EXTINF:-1 group-title="FRANCE", 20 TF1 SERIES FILMS
+
+http://178.18.49.42:8080/play/a008
+#EXTINF:-1 group-title="FRANCE", 21 L'EQUIPE
+
+http://178.18.49.42:8080/play/a009
+#EXTINF:-1 group-title="FRANCE", 22 6TER
+
+http://178.18.49.42:8080/play/a00a
+#EXTINF:-1 group-title="FRANCE", 23 RMC STORY
+
+http://178.18.49.42:8080/play/a00b
+#EXTINF:-1 group-title="FRANCE", 24 RMC DECOUVERTE
+
+http://178.18.49.42:8080/play/a00c
+#EXTINF:-1 group-title="FRANCE", 25 CHERIE 25
+
+http://178.18.49.42:8080/play/a00d
+#EXTINF:-1 group-title="FRANCE", 26 LCI
+
+http://178.18.49.42:8080/play/a02n
+#EXTINF:-1 group-title="FRANCE", 27 FRANCEINFO
+
+http://178.18.49.42:8080/play/a02o
+#EXTINF:-1 group-title="FRANCE", 30 TLM SD
+
+http://178.18.49.42:8080/play/a00z
+
+
+#EXTINF:-1 group-title="UK 1",BBC One HD
+
+http://176.10.117.3:5000/play/a035/index.m3u8
+#EXTINF:-1 group-title="UK 1",ComedyCentral CH HD
+
+http://176.10.117.3:5000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="UK 1",DMAX HD
+
+http://176.10.117.3:5000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="UK 1",Disney Channel
+
+http://176.10.117.3:5000/play/a038/index.m3u8
+#EXTINF:-1 group-title="UK 1",France 2 HD
+
+http://176.10.117.3:5000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="UK 1",France 3 HD
+
+http://176.10.117.3:5000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="UK 1",KiKA HD
+
+http://176.10.117.3:5000/play/a037/index.m3u8
+#EXTINF:-1 group-title="UK 1",M6 HD
+
+http://176.10.117.3:5000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="UK 1",MTV CH HD
+
+http://176.10.117.3:5000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="UK 1",NITRO
+
+http://176.10.117.3:5000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="UK 1",Nick CH HD
+
+http://176.10.117.3:5000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="UK 1",Nick CH HD
+
+http://176.10.117.3:5000/play/a039/index.m3u8
+#EXTINF:-1 group-title="UK 1",ProSieben
+
+http://176.10.117.3:5000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="UK 1",ProSieben MAXX
+
+http://176.10.117.3:5000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="UK 1",RSI LA 1 HD
+
+http://176.10.117.3:5000/play/a031/index.m3u8
+#EXTINF:-1 group-title="UK 1",RSI LA 2 HD
+
+http://176.10.117.3:5000/play/a032/index.m3u8
+#EXTINF:-1 group-title="UK 1",RTL
+
+http://176.10.117.3:5000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="UK 1",RTLZWEI
+
+http://176.10.117.3:5000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="UK 1",RTS Deux HD
+
+http://176.10.117.3:5000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="UK 1",RTS Un HD
+
+http://176.10.117.3:5000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="UK 1",Rai 1 HD
+
+http://176.10.117.3:5000/play/a033/index.m3u8
+#EXTINF:-1 group-title="UK 1",Rai 2 HD
+
+http://176.10.117.3:5000/play/a034/index.m3u8
+#EXTINF:-1 group-title="UK 1",SAT.1
+
+http://176.10.117.3:5000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="UK 1",SIXX
+
+http://176.10.117.3:5000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="UK 1",Super RTL
+
+http://176.10.117.3:5000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="UK 1",TF1 HD
+
+http://176.10.117.3:5000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="UK 1",TV5 Monde
+
+http://176.10.117.3:5000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="UK 1",TVE Int.
+
+http://176.10.117.3:5000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="UK 1",VOX
+
+http://176.10.117.3:5000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="UK 1",auftanken.TV HD
+
+http://176.10.117.3:5000/play/a030/index.m3u8
+#EXTINF:-1 group-title="UK 1",kabel eins
+
+http://176.10.117.3:5000/play/a04i/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UK 2",ARY Digital
+
+http://178.159.14.234:8000/play/a0ct
+#EXTINF:-1 group-title="UK 2",Arise News
+
+http://178.159.14.234:8000/play/a0ci
+#EXTINF:-1 group-title="UK 2",BBC ALBA
+
+http://178.159.14.234:8000/play/a01l
+#EXTINF:-1 group-title="UK 2",BBC ALBA Glasgow
+
+http://178.159.14.234:8000/play/a01k
+#EXTINF:-1 group-title="UK 2",BBC Four
+
+http://178.159.14.234:8000/play/a017
+#EXTINF:-1 group-title="UK 2",BBC Four HD
+
+http://178.159.14.234:8000/play/a0bn
+#EXTINF:-1 group-title="UK 2",BBC Four HD
+
+http://178.159.14.234:8000/play/a0bp
+#EXTINF:-1 group-title="UK 2",BBC NEWS HD
+
+http://178.159.14.234:8000/play/a0bl
+#EXTINF:-1 group-title="UK 2",BBC News
+
+http://178.159.14.234:8000/play/a01v
+#EXTINF:-1 group-title="UK 2",BBC One Channel Islands
+
+http://178.159.14.234:8000/play/a00x
+#EXTINF:-1 group-title="UK 2",BBC One East East
+
+http://178.159.14.234:8000/play/a013
+#EXTINF:-1 group-title="UK 2",BBC One East Midlands
+
+http://178.159.14.234:8000/play/a012
+#EXTINF:-1 group-title="UK 2",BBC One East West
+
+http://178.159.14.234:8000/play/a00w
+#EXTINF:-1 group-title="UK 2",BBC One East Yorkshire & Lincolnshire
+
+http://178.159.14.234:8000/play/a011
+#EXTINF:-1 group-title="UK 2",BBC One HD
+
+http://178.159.14.234:8000/play/a0b9
+#EXTINF:-1 group-title="UK 2",BBC One HD
+
+http://178.159.14.234:8000/play/a0bc
+#EXTINF:-1 group-title="UK 2",BBC One London
+
+http://178.159.14.234:8000/play/a00s
+#EXTINF:-1 group-title="UK 2",BBC One North East & Cumbria
+
+http://178.159.14.234:8000/play/a01p
+#EXTINF:-1 group-title="UK 2",BBC One North West
+
+http://178.159.14.234:8000/play/a01m
+#EXTINF:-1 group-title="UK 2",BBC One Northern Ireland
+
+http://178.159.14.234:8000/play/a01w
+#EXTINF:-1 group-title="UK 2",BBC One Oxford
+
+http://178.159.14.234:8000/play/a01u
+#EXTINF:-1 group-title="UK 2",BBC One ScotHD
+
+http://178.159.14.234:8000/play/a0bj
+#EXTINF:-1 group-title="UK 2",BBC One Scotland
+
+http://178.159.14.234:8000/play/a01j
+#EXTINF:-1 group-title="UK 2",BBC One South
+
+http://178.159.14.234:8000/play/a01s
+#EXTINF:-1 group-title="UK 2",BBC One South East
+
+http://178.159.14.234:8000/play/a01o
+#EXTINF:-1 group-title="UK 2",BBC One South West
+
+http://178.159.14.234:8000/play/a01t
+#EXTINF:-1 group-title="UK 2",BBC One Wal HD
+
+http://178.159.14.234:8000/play/a0bk
+#EXTINF:-1 group-title="UK 2",BBC One Wales
+
+http://178.159.14.234:8000/play/a015
+#EXTINF:-1 group-title="UK 2",BBC One West
+
+http://178.159.14.234:8000/play/a00v
+#EXTINF:-1 group-title="UK 2",BBC One West Midlands
+
+http://178.159.14.234:8000/play/a010
+#EXTINF:-1 group-title="UK 2",BBC One Yorkshire & North Midlands
+
+http://178.159.14.234:8000/play/a01n
+#EXTINF:-1 group-title="UK 2",BBC Parliament
+
+http://178.159.14.234:8000/play/a014
+#EXTINF:-1 group-title="UK 2",BBC Red Button 1
+
+http://178.159.14.234:8000/play/a00y
+#EXTINF:-1 group-title="UK 2",BBC Scotland
+
+http://178.159.14.234:8000/play/a01i
+#EXTINF:-1 group-title="UK 2",BBC Two
+
+http://178.159.14.234:8000/play/a00t
+#EXTINF:-1 group-title="UK 2",BBC Two HD
+
+http://178.159.14.234:8000/play/a0bb
+#EXTINF:-1 group-title="UK 2",BBC Two HD
+
+http://178.159.14.234:8000/play/a0b8
+#EXTINF:-1 group-title="UK 2",BBC Two Northern Ireland
+
+http://178.159.14.234:8000/play/a01x
+#EXTINF:-1 group-title="UK 2",BBC Two Wales
+
+http://178.159.14.234:8000/play/a016
+#EXTINF:-1 group-title="UK 2",BBCScotlandHD
+
+http://178.159.14.234:8000/play/a0bm
+#EXTINF:-1 group-title="UK 2",Brit Asia TV
+
+http://178.159.14.234:8000/play/a0cs
+#EXTINF:-1 group-title="UK 2",CBBC
+
+http://178.159.14.234:8000/play/a01r
+#EXTINF:-1 group-title="UK 2",CBBC HD
+
+http://178.159.14.234:8000/play/a0bd
+#EXTINF:-1 group-title="UK 2",CBeebies
+
+http://178.159.14.234:8000/play/a00u
+#EXTINF:-1 group-title="UK 2",CBeebies HD
+
+http://178.159.14.234:8000/play/a0bo
+#EXTINF:-1 group-title="UK 2",CBeebies HD
+
+http://178.159.14.234:8000/play/a0bq
+#EXTINF:-1 group-title="UK 2",CITV
+
+http://178.159.14.234:8000/play/a00h
+#EXTINF:-1 group-title="UK 2",Channel 4 London +1
+
+http://178.159.14.234:8000/play/a02q
+#EXTINF:-1 group-title="UK 2",Channel 4 North +1
+
+http://178.159.14.234:8000/play/a02s
+#EXTINF:-1 group-title="UK 2",Channel 4 Northern Ireland
+
+http://178.159.14.234:8000/play/a02u
+#EXTINF:-1 group-title="UK 2",Channel 4 Scotland +1
+
+http://178.159.14.234:8000/play/a02t
+#EXTINF:-1 group-title="UK 2",Channel 4 South & East +1
+
+http://178.159.14.234:8000/play/a02r
+#EXTINF:-1 group-title="UK 2",Channel 7
+
+http://178.159.14.234:8000/play/a0cm
+#EXTINF:-1 group-title="UK 2",Craft Extra
+
+http://178.159.14.234:8000/play/a06o
+#EXTINF:-1 group-title="UK 2",Craft Extra
+
+http://178.159.14.234:8000/play/a05f
+#EXTINF:-1 group-title="UK 2",Dunya News
+
+http://178.159.14.234:8000/play/a0cv
+#EXTINF:-1 group-title="UK 2",E4 +1
+
+http://178.159.14.234:8000/play/a02o
+#EXTINF:-1 group-title="UK 2",Faith UK
+
+http://178.159.14.234:8000/play/a0cq
+#EXTINF:-1 group-title="UK 2",Film4 +1
+
+http://178.159.14.234:8000/play/a02x
+#EXTINF:-1 group-title="UK 2",GEO News
+
+http://178.159.14.234:8000/play/a0cj
+#EXTINF:-1 group-title="UK 2",Gems TV
+
+http://178.159.14.234:8000/play/a0ck
+#EXTINF:-1 group-title="UK 2",Good News TV
+
+http://178.159.14.234:8000/play/a0aw
+#EXTINF:-1 group-title="UK 2",HUM Masala
+
+http://178.159.14.234:8000/play/a06p
+#EXTINF:-1 group-title="UK 2",HUM Masala
+
+http://178.159.14.234:8000/play/a05g
+#EXTINF:-1 group-title="UK 2",HUM News
+
+http://178.159.14.234:8000/play/a06u
+#EXTINF:-1 group-title="UK 2",HUM News
+
+http://178.159.14.234:8000/play/a05l
+#EXTINF:-1 group-title="UK 2",High Street TV 2
+
+http://178.159.14.234:8000/play/a0av
+#EXTINF:-1 group-title="UK 2",High Street TV 3
+
+http://178.159.14.234:8000/play/a0cr
+#EXTINF:-1 group-title="UK 2",High Street TV 4
+
+http://178.159.14.234:8000/play/a0ax
+#EXTINF:-1 group-title="UK 2",Hochanda
+
+http://178.159.14.234:8000/play/a0at
+#EXTINF:-1 group-title="UK 2",IQRA BANGLA
+
+http://178.159.14.234:8000/play/a0cz
+#EXTINF:-1 group-title="UK 2",IQRA TV
+
+http://178.159.14.234:8000/play/a0d0
+#EXTINF:-1 group-title="UK 2",ITV  Border Scotland
+
+http://178.159.14.234:8000/play/a0bu
+#EXTINF:-1 group-title="UK 2",ITV Anglia East
+
+http://178.159.14.234:8000/play/a00n
+#EXTINF:-1 group-title="UK 2",ITV Anglia East +1
+
+http://178.159.14.234:8000/play/a00o
+#EXTINF:-1 group-title="UK 2",ITV CENTRAL WEST +1
+
+http://178.159.14.234:8000/play/a0bz
+#EXTINF:-1 group-title="UK 2",ITV Central East
+
+http://178.159.14.234:8000/play/a0bw
+#EXTINF:-1 group-title="UK 2",ITV Central West
+
+http://178.159.14.234:8000/play/a00p
+#EXTINF:-1 group-title="UK 2",ITV Channel TV
+
+http://178.159.14.234:8000/play/a02b
+#EXTINF:-1 group-title="UK 2",ITV Granada
+
+http://178.159.14.234:8000/play/a00m
+#EXTINF:-1 group-title="UK 2",ITV Granada +1
+
+http://178.159.14.234:8000/play/a02j
+#EXTINF:-1 group-title="UK 2",ITV HD
+
+http://178.159.14.234:8000/play/a0bs
+#EXTINF:-1 group-title="UK 2",ITV HD Anglia East
+
+http://178.159.14.234:8000/play/a0c9
+#EXTINF:-1 group-title="UK 2",ITV HD Border England
+
+http://178.159.14.234:8000/play/a0ca
+#EXTINF:-1 group-title="UK 2",ITV HD Yorkshire East
+
+http://178.159.14.234:8000/play/a0c7
+#EXTINF:-1 group-title="UK 2",ITV LONDON +1
+
+http://178.159.14.234:8000/play/a0c2
+#EXTINF:-1 group-title="UK 2",ITV LONDON HD
+
+http://178.159.14.234:8000/play/a0bt
+#EXTINF:-1 group-title="UK 2",ITV London
+
+http://178.159.14.234:8000/play/a00f
+#EXTINF:-1 group-title="UK 2",ITV Meridian East
+
+http://178.159.14.234:8000/play/a0c0
+#EXTINF:-1 group-title="UK 2",ITV Meridian East +1
+
+http://178.159.14.234:8000/play/a00q
+#EXTINF:-1 group-title="UK 2",ITV Meridian South Coast
+
+http://178.159.14.234:8000/play/a0by
+#EXTINF:-1 group-title="UK 2",ITV TYne tees
+
+http://178.159.14.234:8000/play/a0bv
+#EXTINF:-1 group-title="UK 2",ITV Wales
+
+http://178.159.14.234:8000/play/a0ch
+#EXTINF:-1 group-title="UK 2",ITV Westcountry South West
+
+http://178.159.14.234:8000/play/a02i
+#EXTINF:-1 group-title="UK 2",ITV Westcountry West
+
+http://178.159.14.234:8000/play/a0c1
+#EXTINF:-1 group-title="UK 2",ITV Yorkshire West
+
+http://178.159.14.234:8000/play/a0c3
+#EXTINF:-1 group-title="UK 2",ITV+1
+
+http://178.159.14.234:8000/play/a0d4
+#EXTINF:-1 group-title="UK 2",ITV2
+
+http://178.159.14.234:8000/play/a00g
+#EXTINF:-1 group-title="UK 2",ITV2+1
+
+http://178.159.14.234:8000/play/a0c4
+#EXTINF:-1 group-title="UK 2",ITV3
+
+http://178.159.14.234:8000/play/a02k
+#EXTINF:-1 group-title="UK 2",ITV3 +1
+
+http://178.159.14.234:8000/play/a02l
+#EXTINF:-1 group-title="UK 2",ITV4
+
+http://178.159.14.234:8000/play/a00i
+#EXTINF:-1 group-title="UK 2",ITV4 HD
+
+http://178.159.14.234:8000/play/a0c8
+#EXTINF:-1 group-title="UK 2",ITV4+1
+
+http://178.159.14.234:8000/play/a00j
+#EXTINF:-1 group-title="UK 2",ITVBe
+
+http://178.159.14.234:8000/play/a00k
+#EXTINF:-1 group-title="UK 2",ITVBe+1
+
+http://178.159.14.234:8000/play/a0bx
+#EXTINF:-1 group-title="UK 2",ITVi Stream 44
+
+http://178.159.14.234:8000/play/a00l
+#EXTINF:-1 group-title="UK 2",Ideal Extra
+
+http://178.159.14.234:8000/play/a05i
+#EXTINF:-1 group-title="UK 2",Islam Channel
+
+http://178.159.14.234:8000/play/a0cl
+#EXTINF:-1 group-title="UK 2",Islam TV
+
+http://178.159.14.234:8000/play/a0cy
+#EXTINF:-1 group-title="UK 2",Khushkhabri
+
+http://178.159.14.234:8000/play/a0au
+#EXTINF:-1 group-title="UK 2",LBC News
+
+http://178.159.14.234:8000/play/a0b5
+#EXTINF:-1 group-title="UK 2",MATV National
+
+http://178.159.14.234:8000/play/a0cw
+#EXTINF:-1 group-title="UK 2",More4
+
+http://178.159.14.234:8000/play/a02w
+#EXTINF:-1 group-title="UK 2",NOW 80s
+
+http://178.159.14.234:8000/play/a06q
+#EXTINF:-1 group-title="UK 2",NOW 90s
+
+http://178.159.14.234:8000/play/a0b1
+#EXTINF:-1 group-title="UK 2",NOW XMAS
+
+http://178.159.14.234:8000/play/a05h
+#EXTINF:-1 group-title="UK 2",New Vision TV
+
+http://178.159.14.234:8000/play/a0cx
+#EXTINF:-1 group-title="UK 2",PTV Global
+
+http://178.159.14.234:8000/play/a0b6
+#EXTINF:-1 group-title="UK 2",Psychic Today
+
+http://178.159.14.234:8000/play/a06v
+#EXTINF:-1 group-title="UK 2",STV East
+
+http://178.159.14.234:8000/play/a02e
+#EXTINF:-1 group-title="UK 2",STV HD
+
+http://178.159.14.234:8000/play/a0c5
+#EXTINF:-1 group-title="UK 2",STV North
+
+http://178.159.14.234:8000/play/a02c
+#EXTINF:-1 group-title="UK 2",STV Tayside
+
+http://178.159.14.234:8000/play/a02f
+#EXTINF:-1 group-title="UK 2",STV West
+
+http://178.159.14.234:8000/play/a02d
+#EXTINF:-1 group-title="UK 2",Sanskar
+
+http://178.159.14.234:8000/play/a0cu
+#EXTINF:-1 group-title="UK 2",SonLife
+
+http://178.159.14.234:8000/play/a05k
+#EXTINF:-1 group-title="UK 2",Star Bharat
+
+http://178.159.14.234:8000/play/a0d3
+#EXTINF:-1 group-title="UK 2",Star GOLD
+
+http://178.159.14.234:8000/play/a0d2
+#EXTINF:-1 group-title="UK 2",Star Plus
+
+http://178.159.14.234:8000/play/a0d1
+#EXTINF:-1 group-title="UK 2",Studio 66 3
+
+http://178.159.14.234:8000/play/a0cp
+#EXTINF:-1 group-title="UK 2",TJC
+
+http://178.159.14.234:8000/play/a0br
+#EXTINF:-1 group-title="UK 2",Takbeer TV
+
+http://178.159.14.234:8000/play/a05j
+#EXTINF:-1 group-title="UK 2",Thane
+
+http://178.159.14.234:8000/play/a0cn
+#EXTINF:-1 group-title="UK 2",Thane
+
+http://178.159.14.234:8000/play/a06m
+#EXTINF:-1 group-title="UK 2",Thane
+
+http://178.159.14.234:8000/play/a05d
+#EXTINF:-1 group-title="UK 2",UCB Ireland
+
+http://178.159.14.234:8000/play/a0b4
+#EXTINF:-1 group-title="UK 2",UTV
+
+http://178.159.14.234:8000/play/a02g
+#EXTINF:-1 group-title="UK 2",UTV HD
+
+http://178.159.14.234:8000/play/a0c6
+#EXTINF:-1 group-title="UK 2",UTV+1
+
+http://178.159.14.234:8000/play/a02h
+#EXTINF:-1 group-title="UK 2",YANGA!
+
+http://178.159.14.234:8000/play/a0ay
